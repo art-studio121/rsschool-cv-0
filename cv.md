@@ -25,3 +25,12 @@ Front-end development interested me as one of the most modern, actively developi
 * Git, GitHub
 * VS Code
 * Adobe Photoshop, ARCHICAD, 3dsMax
+ ---- 
+### Courses:
+* HTML and CSS Tutorials on the [Code Basics](https://ru.code-basics.com/) (in progress)
+* JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+----
+### Languages:
+* Russian – Native
+* English - Intermediate
